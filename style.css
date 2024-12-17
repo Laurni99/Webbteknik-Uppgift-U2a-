@@ -93,9 +93,7 @@ input:disabled ~ * { /* Grå text efter element som är inaktiverat */
         grid-template-columns: auto;
         gap: 0.2em;
     }
-    #room label:last-of-type {
-        grid-column: 1/2;
-    }
+    
 }
 
 @media screen and (max-width: 560px) {
